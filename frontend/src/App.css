@@ -1,0 +1,37 @@
+/* App.css */
+
+/* Apply styles to the entire application */
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+/* Apply styles to the main content area */
+.main-content {
+  margin-top: 20px;
+}
+
+/* Apply styles to links */
+a {
+  text-decoration: none;
+  color: #007bff; /* Blue color */
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Apply styles to buttons */
+button {
+  padding: 10px 20px;
+  margin-top: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3; /* Darker shade of blue on hover */
+}
